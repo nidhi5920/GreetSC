@@ -13,7 +13,6 @@
 		769E11F02AD54CE4005610FF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769E11EF2AD54CE4005610FF /* SceneDelegate.swift */; };
 		769E11F22AD54CE4005610FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 769E11F12AD54CE4005610FF /* ViewController.swift */; };
 		769E11F52AD54CE4005610FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 769E11F32AD54CE4005610FF /* Main.storyboard */; };
-		769E11F72AD54CE5005610FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 769E11F62AD54CE5005610FF /* Assets.xcassets */; };
 		769E11FA2AD54CE5005610FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 769E11F82AD54CE5005610FF /* LaunchScreen.storyboard */; };
 		769E12002AD54EA4005610FF /* Greet.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 769E11BB2AD54B63005610FF /* Greet.framework */; };
 		769E12012AD54EA4005610FF /* Greet.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 769E11BB2AD54B63005610FF /* Greet.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -52,7 +51,6 @@
 		769E11EF2AD54CE4005610FF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		769E11F12AD54CE4005610FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		769E11F42AD54CE4005610FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		769E11F62AD54CE5005610FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		769E11F92AD54CE5005610FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		769E11FB2AD54CE5005610FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -111,7 +109,6 @@
 				769E11EF2AD54CE4005610FF /* SceneDelegate.swift */,
 				769E11F12AD54CE4005610FF /* ViewController.swift */,
 				769E11F32AD54CE4005610FF /* Main.storyboard */,
-				769E11F62AD54CE5005610FF /* Assets.xcassets */,
 				769E11F82AD54CE5005610FF /* LaunchScreen.storyboard */,
 				769E11FB2AD54CE5005610FF /* Info.plist */,
 			);
@@ -227,7 +224,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				769E11FA2AD54CE5005610FF /* LaunchScreen.storyboard in Resources */,
-				769E11F72AD54CE5005610FF /* Assets.xcassets in Resources */,
 				769E11F52AD54CE4005610FF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
