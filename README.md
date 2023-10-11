@@ -1,0 +1,2 @@
+# GreetSC
+for cocoapods
